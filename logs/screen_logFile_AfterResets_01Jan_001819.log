@@ -1,0 +1,18 @@
+01-01-70 00:18:19 INFO   Starting
+01-01-70 00:18:32 INFO   Configuring stream compare
+01-01-70 00:18:35 INFO   Stop continous acquire for lc-input
+01-01-70 00:18:35 INFO   Stop continous acquire for lc-ASIC
+01-01-70 00:18:35 INFO   Stop continous acquire for lc-emulator
+01-01-70 00:18:35 INFO   Configure continous acquire
+01-01-70 00:18:35 INFO   Starting stream compare (CTRL-C to stop and do capture and I2C compare)
+01-01-70 00:18:35 INFO   Stream compare, word count 18283, error count 0
+01-01-70 00:18:36 INFO   Stream compare, word count 40105987, error count 0
+01-01-70 00:18:37 INFO   Stream compare, word count 80196277, error count 0
+01-01-70 00:18:38 INFO   Stream compare, word count 120264861, error count 0
+01-01-70 00:18:39 INFO   Stream compare, word count 160355441, error count 0
+01-01-70 00:18:40 INFO   Stream compare, word count 200453737, error count 0
+01-01-70 00:18:40 INFO   Stopping
+01-01-70 00:18:40 INFO   Stream compare, word count 220974850, error count 0
+01-01-70 00:18:53 ERROR  RO Mismatches: {'ASIC': {'CH_ERR_0INPUT_ALL': {'error_data': (104, 0), 'error_data_err_dat': (40, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_10INPUT_ALL': {'error_data': (104, 0), 'error_data_err_dat': (40, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_11INPUT_ALL': {'error_data': (104, 0), 'error_data_err_dat': (40, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_1INPUT_ALL': {'error_data': (104, 0), 'error_data_err_dat': (40, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_2INPUT_ALL': {'error_data': (104, 0), 'error_data_err_dat': (40, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_3INPUT_ALL': {'error_data': (104, 0), 'error_data_err_dat': (40, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_4INPUT_ALL': {'error_data': (104, 0), 'error_data_err_dat': (40, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_5INPUT_ALL': {'error_data': (104, 0), 'error_data_err_dat': (40, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_6INPUT_ALL': {'error_data': (104, 0), 'error_data_err_dat': (40, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_7INPUT_ALL': {'error_data': (104, 0), 'error_data_err_dat': (40, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_8INPUT_ALL': {'error_data': (104, 0), 'error_data_err_dat': (40, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_9INPUT_ALL': {'error_data': (104, 0), 'error_data_err_dat': (40, 0), 'error_data_err_out': (1, 0)}}}
+01-01-70 00:18:53 DEBUG  RO Mismatches: {'ASIC': {}}
+01-01-70 00:18:53 INFO   RW Matches

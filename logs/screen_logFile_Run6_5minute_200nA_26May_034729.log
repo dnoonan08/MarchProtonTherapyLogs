@@ -1,0 +1,74 @@
+05-26-22 03:47:29 INFO   Starting
+05-26-22 03:47:42 INFO   Configuring stream compare
+05-26-22 03:47:45 INFO   Stop continous acquire for lc-input
+05-26-22 03:47:45 INFO   Stop continous acquire for lc-ASIC
+05-26-22 03:47:45 INFO   Stop continous acquire for lc-emulator
+05-26-22 03:47:45 INFO   Configure continous acquire
+05-26-22 03:47:45 INFO   Starting stream compare (CTRL-C to stop and do capture and I2C compare)
+05-26-22 03:47:45 INFO   Stream compare, word count 19481, error count 0
+05-26-22 03:47:46 INFO   Stream compare, word count 40108917, error count 0
+05-26-22 03:47:47 INFO   Stream compare, word count 80201459, error count 0
+05-26-22 03:47:48 INFO   Stream compare, word count 120297324, error count 0
+05-26-22 03:47:49 INFO   Stream compare, word count 160387924, error count 0
+05-26-22 03:47:50 INFO   Stream compare, word count 200479895, error count 0
+05-26-22 03:47:51 INFO   Stream compare, word count 240579598, error count 0
+05-26-22 03:47:52 INFO   Stream compare, word count 280672166, error count 0
+05-26-22 03:47:53 INFO   Stream compare, word count 320763335, error count 1
+05-26-22 03:47:54 INFO   Stream compare, word count 360853714, error count 1
+05-26-22 03:47:55 INFO   Stream compare, word count 400943119, error count 1
+05-26-22 03:47:56 INFO   Stream compare, word count 441035107, error count 1
+05-26-22 03:47:57 INFO   Stream compare, word count 481134437, error count 1
+05-26-22 03:47:58 INFO   Stream compare, word count 521233690, error count 1
+05-26-22 03:47:59 INFO   Stream compare, word count 561325707, error count 1
+05-26-22 03:48:00 INFO   Stream compare, word count 601416241, error count 1
+05-26-22 03:48:01 INFO   Stream compare, word count 641509472, error count 1
+05-26-22 03:48:02 INFO   Stream compare, word count 681572282, error count 1
+05-26-22 03:48:03 INFO   Stream compare, word count 721671639, error count 13266207
+05-26-22 03:48:04 INFO   Stream compare, word count 761763779, error count 53358347
+05-26-22 03:48:05 INFO   Stream compare, word count 801854412, error count 93448980
+05-26-22 03:48:06 INFO   Stream compare, word count 841951387, error count 133545955
+05-26-22 03:48:07 INFO   Stream compare, word count 882043940, error count 173638508
+05-26-22 03:48:08 INFO   Stream compare, word count 922143106, error count 213737674
+05-26-22 03:48:09 INFO   Stream compare, word count 962246411, error count 253840979
+05-26-22 03:48:10 INFO   Stream compare, word count 1002340034, error count 293934602
+05-26-22 03:48:11 INFO   Stream compare, word count 1042431398, error count 334025966
+05-26-22 03:48:12 INFO   Stream compare, word count 1082523121, error count 374117689
+05-26-22 03:48:13 INFO   Stream compare, word count 1122613574, error count 414208142
+05-26-22 03:48:14 INFO   Stream compare, word count 1162703564, error count 454298132
+05-26-22 03:48:15 INFO   Stream compare, word count 1202801089, error count 494395657
+05-26-22 03:48:16 INFO   Stream compare, word count 1242897851, error count 534492419
+05-26-22 03:48:17 INFO   Stream compare, word count 1282992799, error count 574587367
+05-26-22 03:48:18 INFO   Stream compare, word count 1323090984, error count 614685552
+05-26-22 03:48:19 INFO   Stream compare, word count 1363174799, error count 654769367
+05-26-22 03:48:20 INFO   Stream compare, word count 1403263985, error count 694858553
+05-26-22 03:48:21 INFO   Stream compare, word count 1443364100, error count 734958668
+05-26-22 03:48:22 INFO   Stream compare, word count 1483461142, error count 775055710
+05-26-22 03:48:23 INFO   Stream compare, word count 1523557052, error count 815151620
+05-26-22 03:48:24 INFO   Stream compare, word count 1563646835, error count 855241403
+05-26-22 03:48:25 INFO   Stream compare, word count 1603736994, error count 895331562
+05-26-22 03:48:26 INFO   Stream compare, word count 1643830175, error count 935424743
+05-26-22 03:48:27 INFO   Stream compare, word count 1683930134, error count 975524702
+05-26-22 03:48:28 INFO   Stream compare, word count 1724029072, error count 1015623640
+05-26-22 03:48:29 INFO   Stream compare, word count 1764119841, error count 1055714409
+05-26-22 03:48:30 INFO   Stream compare, word count 1804212799, error count 1095807367
+05-26-22 03:48:31 INFO   Stream compare, word count 1844303784, error count 1135898352
+05-26-22 03:48:32 INFO   Stream compare, word count 1884397040, error count 1175991608
+05-26-22 03:48:33 INFO   Stream compare, word count 1924496185, error count 1216090753
+05-26-22 03:48:34 INFO   Stream compare, word count 1964589163, error count 1256183731
+05-26-22 03:48:35 INFO   Stream compare, word count 2004679888, error count 1296274456
+05-26-22 03:48:36 INFO   Stream compare, word count 2044773640, error count 1336368208
+05-26-22 03:48:37 INFO   Stream compare, word count 2084866813, error count 1376461381
+05-26-22 03:48:38 INFO   Stream compare, word count 2124937854, error count 1416532422
+05-26-22 03:48:39 INFO   Stream compare, word count 2165036189, error count 1456630757
+05-26-22 03:48:40 INFO   Stream compare, word count 2205127801, error count 1496722369
+05-26-22 03:48:41 INFO   Stream compare, word count 2245217908, error count 1536812476
+05-26-22 03:48:42 INFO   Stream compare, word count 2285311794, error count 1576906362
+05-26-22 03:48:43 INFO   Stream compare, word count 2325401484, error count 1616996052
+05-26-22 03:48:44 INFO   Stream compare, word count 2365491579, error count 1657086147
+05-26-22 03:48:45 INFO   Stream compare, word count 2405590128, error count 1697184696
+05-26-22 03:48:46 INFO   Stream compare, word count 2445686496, error count 1737281064
+05-26-22 03:48:47 INFO   Stopping
+05-26-22 03:48:47 INFO   Stream compare, word count 2459223912, error count 1750818480
+05-26-22 03:49:06 ERROR  RO Mismatches: {'ASIC': {'PLL_ALL': {'pll_read_bytes_4to3': (14, 15), 'pll_read_bytes_4to3_parallel_enable_intrC': (0, 1)}}}
+05-26-22 03:49:06 DEBUG  RO Mismatches: {'ASIC': {}}
+05-26-22 03:49:06 INFO   RW Matches

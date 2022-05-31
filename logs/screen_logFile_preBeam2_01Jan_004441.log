@@ -1,0 +1,25 @@
+01-01-70 00:44:41 INFO   Starting
+01-01-70 00:44:54 INFO   Configuring stream compare
+01-01-70 00:44:57 INFO   Stop continous acquire for lc-input
+01-01-70 00:44:57 INFO   Stop continous acquire for lc-ASIC
+01-01-70 00:44:57 INFO   Stop continous acquire for lc-emulator
+01-01-70 00:44:57 INFO   Configure continous acquire
+01-01-70 00:44:57 INFO   Starting stream compare (CTRL-C to stop and do capture and I2C compare)
+01-01-70 00:44:57 INFO   Stream compare, word count 18650, error count 0
+01-01-70 00:44:58 INFO   Stream compare, word count 40103418, error count 0
+01-01-70 00:44:59 INFO   Stream compare, word count 80190200, error count 0
+01-01-70 00:45:00 INFO   Stream compare, word count 120277251, error count 0
+01-01-70 00:45:01 INFO   Stream compare, word count 160367864, error count 0
+01-01-70 00:45:02 INFO   Stream compare, word count 200453620, error count 0
+01-01-70 00:45:03 INFO   Stream compare, word count 240540298, error count 0
+01-01-70 00:45:04 INFO   Stream compare, word count 280629007, error count 0
+01-01-70 00:45:05 INFO   Stream compare, word count 320716765, error count 0
+01-01-70 00:45:06 INFO   Stream compare, word count 360801082, error count 0
+01-01-70 00:45:07 INFO   Stream compare, word count 400887146, error count 0
+01-01-70 00:45:08 INFO   Stream compare, word count 440974760, error count 0
+01-01-70 00:45:09 INFO   Stream compare, word count 481061668, error count 0
+01-01-70 00:45:10 INFO   Stream compare, word count 521152392, error count 0
+01-01-70 00:45:11 INFO   Stopping
+01-01-70 00:45:11 INFO   Stream compare, word count 552389993, error count 0
+01-01-70 00:45:23 INFO   RO Matches
+01-01-70 00:45:23 INFO   RW Matches

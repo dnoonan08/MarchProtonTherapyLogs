@@ -1,0 +1,118 @@
+01-01-70 00:41:19 INFO   Starting
+01-01-70 00:41:31 INFO   Configuring stream compare
+01-01-70 00:41:34 INFO   Stop continous acquire for lc-input
+01-01-70 00:41:34 INFO   Stop continous acquire for lc-ASIC
+01-01-70 00:41:34 INFO   Stop continous acquire for lc-emulator
+01-01-70 00:41:34 INFO   Configure continous acquire
+01-01-70 00:41:34 INFO   Starting stream compare (CTRL-C to stop and do capture and I2C compare)
+01-01-70 00:41:34 INFO   Stream compare, word count 18666, error count 0
+01-01-70 00:41:35 INFO   Stream compare, word count 40103503, error count 0
+01-01-70 00:41:36 INFO   Stream compare, word count 80188875, error count 0
+01-01-70 00:41:37 INFO   Stream compare, word count 120273570, error count 0
+01-01-70 00:41:38 INFO   Stream compare, word count 160357808, error count 0
+01-01-70 00:41:39 INFO   Stream compare, word count 200442566, error count 0
+01-01-70 00:41:40 INFO   Stream compare, word count 240532802, error count 0
+01-01-70 00:41:41 INFO   Stream compare, word count 280626566, error count 0
+01-01-70 00:41:42 INFO   Stream compare, word count 320691419, error count 0
+01-01-70 00:41:43 INFO   Stream compare, word count 360776243, error count 0
+01-01-70 00:41:44 INFO   Stream compare, word count 400860318, error count 0
+01-01-70 00:41:45 INFO   Stream compare, word count 440947505, error count 0
+01-01-70 00:41:46 INFO   Stream compare, word count 481035920, error count 0
+01-01-70 00:41:47 INFO   Stream compare, word count 521124055, error count 0
+01-01-70 00:41:48 INFO   Stream compare, word count 561210408, error count 0
+01-01-70 00:41:49 INFO   Stream compare, word count 601297014, error count 0
+01-01-70 00:41:50 INFO   Stream compare, word count 641391183, error count 0
+01-01-70 00:41:51 INFO   Stream compare, word count 681486012, error count 0
+01-01-70 00:41:52 INFO   Stream compare, word count 721573366, error count 0
+01-01-70 00:41:53 INFO   Stream compare, word count 761651267, error count 0
+01-01-70 00:41:54 INFO   Stream compare, word count 801736919, error count 0
+01-01-70 00:41:55 INFO   Stream compare, word count 841825167, error count 0
+01-01-70 00:41:56 INFO   Stream compare, word count 881909786, error count 0
+01-01-70 00:41:57 INFO   Stream compare, word count 921971466, error count 0
+01-01-70 00:41:58 INFO   Stream compare, word count 962058292, error count 0
+01-01-70 00:41:59 INFO   Stream compare, word count 1002146263, error count 0
+01-01-70 00:42:00 INFO   Stream compare, word count 1042233480, error count 0
+01-01-70 00:42:01 INFO   Stream compare, word count 1082293616, error count 0
+01-01-70 00:42:02 INFO   Stream compare, word count 1122382112, error count 0
+01-01-70 00:42:03 INFO   Stream compare, word count 1162452267, error count 0
+01-01-70 00:42:04 INFO   Stream compare, word count 1202540108, error count 0
+01-01-70 00:42:05 INFO   Stream compare, word count 1242633013, error count 0
+01-01-70 00:42:06 INFO   Stream compare, word count 1282719214, error count 0
+01-01-70 00:42:07 INFO   Stream compare, word count 1322806719, error count 0
+01-01-70 00:42:08 INFO   Stream compare, word count 1362891192, error count 0
+01-01-70 00:42:09 INFO   Stream compare, word count 1402976117, error count 0
+01-01-70 00:42:10 INFO   Stream compare, word count 1443064394, error count 0
+01-01-70 00:42:11 INFO   Stream compare, word count 1483158003, error count 0
+01-01-70 00:42:12 INFO   Stream compare, word count 1523243200, error count 0
+01-01-70 00:42:13 INFO   Stream compare, word count 1563328325, error count 0
+01-01-70 00:42:14 INFO   Stream compare, word count 1603414073, error count 0
+01-01-70 00:42:15 INFO   Stream compare, word count 1643502755, error count 0
+01-01-70 00:42:16 INFO   Stream compare, word count 1683588740, error count 0
+01-01-70 00:42:17 INFO   Stream compare, word count 1723676832, error count 0
+01-01-70 00:42:18 INFO   Stream compare, word count 1763761410, error count 0
+01-01-70 00:42:19 INFO   Stream compare, word count 1803845887, error count 0
+01-01-70 00:42:20 INFO   Stream compare, word count 1843932520, error count 0
+01-01-70 00:42:21 INFO   Stream compare, word count 1884023534, error count 0
+01-01-70 00:42:22 INFO   Stream compare, word count 1924115000, error count 0
+01-01-70 00:42:23 INFO   Stream compare, word count 1964202686, error count 0
+01-01-70 00:42:24 INFO   Stream compare, word count 2004287977, error count 0
+01-01-70 00:42:25 INFO   Stream compare, word count 2044375618, error count 0
+01-01-70 00:42:26 INFO   Stream compare, word count 2084459773, error count 0
+01-01-70 00:42:27 INFO   Stream compare, word count 2124544103, error count 0
+01-01-70 00:42:28 INFO   Stream compare, word count 2164630120, error count 0
+01-01-70 00:42:29 INFO   Stream compare, word count 2204716629, error count 0
+01-01-70 00:42:30 INFO   Stream compare, word count 2244803406, error count 0
+01-01-70 00:42:31 INFO   Stream compare, word count 2284893699, error count 0
+01-01-70 00:42:32 INFO   Stream compare, word count 2324978792, error count 0
+01-01-70 00:42:33 INFO   Stream compare, word count 2365064633, error count 0
+01-01-70 00:42:34 INFO   Stream compare, word count 2405150760, error count 0
+01-01-70 00:42:35 INFO   Stream compare, word count 2445241261, error count 0
+01-01-70 00:42:36 INFO   Stream compare, word count 2485324889, error count 0
+01-01-70 00:42:37 INFO   Stream compare, word count 2525410376, error count 0
+01-01-70 00:42:38 INFO   Stream compare, word count 2565496215, error count 0
+01-01-70 00:42:39 INFO   Stream compare, word count 2605580546, error count 0
+01-01-70 00:42:40 INFO   Stream compare, word count 2645668690, error count 0
+01-01-70 00:42:41 INFO   Stream compare, word count 2685760987, error count 0
+01-01-70 00:42:42 INFO   Stream compare, word count 2725846124, error count 0
+01-01-70 00:42:43 INFO   Stream compare, word count 2765932256, error count 0
+01-01-70 00:42:44 INFO   Stream compare, word count 2806015898, error count 0
+01-01-70 00:42:45 INFO   Stream compare, word count 2846102458, error count 0
+01-01-70 00:42:46 INFO   Stream compare, word count 2886190664, error count 0
+01-01-70 00:42:47 INFO   Stream compare, word count 2926277549, error count 0
+01-01-70 00:42:48 INFO   Stream compare, word count 2966363335, error count 0
+01-01-70 00:42:49 INFO   Stream compare, word count 3006449520, error count 0
+01-01-70 00:42:50 INFO   Stream compare, word count 3046541636, error count 0
+01-01-70 00:42:51 INFO   Stream compare, word count 3086632611, error count 0
+01-01-70 00:42:52 INFO   Stream compare, word count 3126719760, error count 0
+01-01-70 00:42:53 INFO   Stream compare, word count 3166808383, error count 0
+01-01-70 00:42:54 INFO   Stream compare, word count 3206895221, error count 0
+01-01-70 00:42:55 INFO   Stream compare, word count 3246983866, error count 0
+01-01-70 00:42:56 INFO   Stream compare, word count 3287067498, error count 0
+01-01-70 00:42:57 INFO   Stream compare, word count 3327152437, error count 0
+01-01-70 00:42:58 INFO   Stream compare, word count 3367238901, error count 0
+01-01-70 00:42:59 INFO   Stream compare, word count 3407327847, error count 0
+01-01-70 00:43:00 INFO   Stream compare, word count 3447414474, error count 0
+01-01-70 00:43:01 INFO   Stream compare, word count 3487506394, error count 0
+01-01-70 00:43:02 INFO   Stream compare, word count 3527593731, error count 0
+01-01-70 00:43:03 INFO   Stream compare, word count 3567678100, error count 0
+01-01-70 00:43:04 INFO   Stream compare, word count 3607765873, error count 0
+01-01-70 00:43:05 INFO   Stream compare, word count 3647860109, error count 0
+01-01-70 00:43:06 INFO   Stream compare, word count 3687946391, error count 0
+01-01-70 00:43:07 INFO   Stream compare, word count 3728030806, error count 0
+01-01-70 00:43:08 INFO   Stream compare, word count 3768115386, error count 0
+01-01-70 00:43:09 INFO   Stream compare, word count 3808199434, error count 0
+01-01-70 00:43:10 INFO   Stream compare, word count 3848288553, error count 0
+01-01-70 00:43:11 INFO   Stream compare, word count 3888382164, error count 0
+01-01-70 00:43:12 INFO   Stream compare, word count 3928467056, error count 0
+01-01-70 00:43:13 INFO   Stream compare, word count 3968551556, error count 0
+01-01-70 00:43:14 INFO   Stream compare, word count 4008636361, error count 0
+01-01-70 00:43:15 INFO   Stream compare, word count 4048725304, error count 0
+01-01-70 00:43:16 INFO   Stream compare, word count 4088811765, error count 0
+01-01-70 00:43:17 INFO   Stream compare, word count 4128899674, error count 0
+01-01-70 00:43:18 INFO   Stream compare, word count 4168983933, error count 0
+01-01-70 00:43:19 INFO   Stream compare, word count 4209070555, error count 0
+01-01-70 00:43:20 INFO   Stopping
+01-01-70 00:43:20 INFO   Stream compare, word count 4248990445, error count 0
+01-01-70 00:43:33 ERROR  RO Mismatches: {'ASIC': {'CH_ERR_0INPUT_ALL': {'error_data': (107, 0), 'error_data_err_dat': (43, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_10INPUT_ALL': {'error_data': (106, 0), 'error_data_err_dat': (42, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_11INPUT_ALL': {'error_data': (106, 0), 'error_data_err_dat': (42, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_1INPUT_ALL': {'error_data': (106, 0), 'error_data_err_dat': (42, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_2INPUT_ALL': {'error_data': (106, 0), 'error_data_err_dat': (42, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_3INPUT_ALL': {'error_data': (106, 0), 'error_data_err_dat': (42, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_4INPUT_ALL': {'error_data': (106, 0), 'error_data_err_dat': (42, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_5INPUT_ALL': {'error_data': (106, 0), 'error_data_err_dat': (42, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_6INPUT_ALL': {'error_data': (106, 0), 'error_data_err_dat': (42, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_7INPUT_ALL': {'error_data': (107, 0), 'error_data_err_dat': (43, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_8INPUT_ALL': {'error_data': (107, 0), 'error_data_err_dat': (43, 0), 'error_data_err_out': (1, 0)}, 'CH_ERR_9INPUT_ALL': {'error_data': (107, 0), 'error_data_err_dat': (43, 0), 'error_data_err_out': (1, 0)}}}
+01-01-70 00:43:33 DEBUG  RO Mismatches: {'ASIC': {}}
+01-01-70 00:43:33 INFO   RW Matches
